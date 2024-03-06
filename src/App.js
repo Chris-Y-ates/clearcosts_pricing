@@ -4,9 +4,9 @@ import LoginSignup from './Components/LoginSignup/LoginSignup';
 
 function App() {
   return (
-      <div>
+      <main className="App">
         <LoginSignup />
-      </div>
+      </main>
   );
 }
 
